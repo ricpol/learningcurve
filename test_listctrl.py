@@ -36,10 +36,6 @@ from sys import maxint
 from random import sample  
 from string import ascii_letters  
 import sqlite3
-
-import math
-import os
-import time
 import wx  
 
 
